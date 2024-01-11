@@ -1,4 +1,4 @@
-# Projet_Hermes
+# Project_Hermes
 This is a first year of master school project, and it is realised by a 4 members team.
 
 The aim of the project is to collect data from traffic to help travellers manage their journey and be aware of possible delays due to different reasons.
